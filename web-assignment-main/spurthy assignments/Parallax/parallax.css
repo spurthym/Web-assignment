@@ -1,0 +1,61 @@
+body,html{
+	margin: 0;
+	padding:5px;
+	text-indent: 20px;
+	text-align:center;
+	background-color: lightgrey;
+	font-
+}
+.box1{
+	height: 500px;
+	width: 100%;
+	background-image: url(monument.jpg); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	position: relative;
+	opacity: 0.90;
+
+}
+.box2{
+	height: 600px;
+	width: 100%;
+	background-image: url(grandcanyon.jpg); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	position: relative;
+	opacity: 0.90;
+}
+.box3{
+	height: 600px;
+	width: 100%;
+	background-image: url(antelopecanyon.jpg); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	position: relative;
+	opacity: 0.90;
+}
+.box4{
+	height: 600px;
+	width: 100%;
+	background-image: url(wharf.jpg); 
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	position: relative;
+	opacity: 0.90;
+}
+
+h1{
+	font-family: sans-serif;
+	font-size: 48px;
+	color: black;
+	margin: 0px;
+	text-align: center;
+	background-color: white;
+
+}
+
+

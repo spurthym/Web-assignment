@@ -1,0 +1,61 @@
+body
+ {
+
+    margin-left:15%;   
+    margin-right:15%; 
+    margin-bottom:15%;   
+    background-color: #FFEFD5 ;
+    padding: 10px;
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    font-size: 18px;
+}
+
+#image{
+	 width: 70%;
+     height: auto;
+     display: inline-block;
+     margin: 0 15%;
+}
+ #title{
+	text-align: center; 
+	text-shadow: 6px 6px 8px #696969; 
+	font-size: 3.5em;
+}
+#img-caption{
+     font-size: 1em;
+     font-weight: 1000;
+     font-family: Apple Chancery;
+     text-align: center;
+
+     
+}
+
+#introduction{
+	background: black;
+}
+
+h2,#heading{
+	text-align: center; 
+	text-shadow: 6px 6px 8px #696969; 
+	font-size: 2em;
+
+}
+
+#achievements{
+
+	padding: 30px;
+	text-align: left;
+	background-color: pink: 
+}
+
+div#info{
+	background-color:#FFE4B5;
+	box-shadow: 10px 10px 20px 10px #A9A9A9 ;
+	padding: 20px;
+	margin-top: 10px;
+
+}
+h2#artistry{
+	background-color: 
+}

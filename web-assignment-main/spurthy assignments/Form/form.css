@@ -1,0 +1,86 @@
+body{
+
+	background-color: 	#ede7f6;
+	font-family:georgia;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-color:Black;
+	padding-left: 70px;
+}
+
+h3{
+	text-align: center;
+	font-size: 20px;
+	font-color:grey;
+	padding-left: 80px;
+
+}
+
+
+form{
+	margin-left:35%;
+	padding: 10px;
+	background-color: #D8BFD8;
+	width:500px;
+	font: sans-serif;
+
+}
+
+input[type="text"]{
+  width: 100%;
+  padding: 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size:20px;
+
+}
+input[type="date"]{
+	display: block;
+	padding: 5px;
+	font-size:20px;
+		 width: 100%;
+
+	
+	 margin: 8px 0;
+	
+	border:1px #663399;
+	box-sizing: border-box;
+}
+
+input[type="Email"]{
+	display: block;
+		 width: 100%;
+		 font-size:20px;
+	padding: 5px;
+		 margin: 8px 0;
+	box-sizing: border-box;
+}
+
+input[type="submit"]{
+	background-color: white;
+	width: 20%;
+	margin-left:43%;
+}
+
+div#input{
+
+	padding: 2px;
+}
+textarea{
+	width: 90%;
+	height: 80%;
+	margin: 8px;
+	font-size:20px;
+}
+
+div#box{
+    text-align: left ;
+	margin: 3px;
+	background-color:#cfb0cf;
+	
+	font-size:20px;
+
+}
